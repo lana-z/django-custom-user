@@ -12,6 +12,7 @@
 - [Intro to Django](https://github.com/codefellows/seattle-code-python-401d24/blob/main/class-26/demo/DEMO-DJANGO.md)
 - [Intro to Tailwind](https://github.com/codefellows/seattle-code-python-401d24/blob/main/class-26/demo/DEMO-TAILWIND.md)
 - JB's demo, [Class 29](https://github.com/codefellows/seattle-code-python-401d24/tree/main/class-29/demo/pages)
+- Django Custom User Model tutorial by [LearnDjango](https://learndjango.com/tutorials/django-custom-user-model)
 - ChatGPT
 
 ## Setup
@@ -27,4 +28,4 @@ N/A
 
 ### Log
 
-- Thursday: set up Django project, added custom user model
+- Thursday: set up Django project, added custom user model, implemented login, logout and signup 
